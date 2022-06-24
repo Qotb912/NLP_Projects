@@ -1,2 +1,2 @@
-# N:P_Learnig
 # NLP_Learning
+# One Hot Encoding Implementation
